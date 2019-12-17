@@ -9,8 +9,9 @@ It is a console simulaton for the famous book pages flipping cricket game. The o
 2. User can set the number of pages in the book and the number of overs to play.
 3. Who gets to bat first is decided by a coin toss.
 4. Ball by ball runs are displayed for both players.
-5. Winner is displayed.
-6. Runs per over summary is generated for the user.
+5. Coin toss result and runs scored are generated randomly.
+6. Winner is displayed.
+7. Runs per over summary is generated for the user.
 
 # ScreenShots
 ScreenShot 1
