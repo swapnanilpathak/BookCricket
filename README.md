@@ -14,9 +14,11 @@ It is a console simulaton for the famous book pages flipping cricket game. The o
 
 # ScreenShots
 ScreenShot 1
+
 <img src="Snaps/snap1.JPG"  width="300"/>
 
 ScreenShot 2
+
 <img src="Snaps/snap2.JPG"  width="300"/>
 
 # End Thoughts
